@@ -1,5 +1,6 @@
 # Workshop-03
 What is the location framework called in iOS
+Core Location
 
 What are the two numbers that determine location
 
