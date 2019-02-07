@@ -3,7 +3,7 @@ What is the location framework called in iOS
 Core Location
 
 What are the two numbers that determine location
-
+Longitude and Latitude
 There are two keys you need to add to the info.plist in order to use gps of a device, what are they?
 
 Can you explain the role of the CLLocationManager delegate that we looked at?
