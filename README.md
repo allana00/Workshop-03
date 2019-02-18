@@ -22,5 +22,5 @@ Press the play button to open xcode simulator.
 **How do you create a custom simulator for testing?**
 
 
-How can you automatically tell the simulator to use this when you run your app?
+**How can you automatically tell the simulator to use this when you run your app?**
 
