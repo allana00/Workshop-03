@@ -20,7 +20,6 @@ Key concepts about deling with user location takes place
 Press the play button to open xcode simulator.
 
 **How do you create a custom simulator for testing?**
-
-
+Create GPX file
 **How can you automatically tell the simulator to use this when you run your app?**
-
+Top Left click on file name , edit scheme, allow location, defult location
